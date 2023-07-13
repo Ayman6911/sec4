@@ -1,0 +1,9 @@
+<suite name = "Run Login tests">
+    <test name = "valid login">
+        <classes>
+            <class name = "loginTests.LoginTests">
+                
+            </class>
+        </classes>
+    </test>
+</suite>
